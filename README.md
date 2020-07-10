@@ -1,2 +1,3 @@
 # matter-js-basic
-render objects in matter and p5 js
+rendering squares in matter.js and p5.js
+matter js is a physics engine bulit on top of javascript using which we can add physics to virtual world we create in javascript.
